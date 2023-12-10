@@ -8,6 +8,10 @@ Check Ethereum and 67 other EVM chain balances of wallet addresses using debank 
 - Proxy support for rate limit handling.
 - Concurrency control for speed & efficient processing.
 
+### Prerequisites
+**Node.js**: The application is built with Node.js. You must have Node.js installed to run this tool. Download and install it from [Node.js official website](https://nodejs.org/en/download/).
+
+
 ### Installation
 1. Clone the repository (or directly download and extract manually):
 ```bash
