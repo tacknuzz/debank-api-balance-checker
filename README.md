@@ -1,6 +1,8 @@
 # Debank Balance Checker for Ethereum & EVM Chains
 Check Ethereum and 67 other EVM chain balances of wallet addresses using debank API. Multithreaded and super fast. Supports address, private key, mnemonic checks. Debank is the best inclusive solution.
 
+![](screenshot.png)
+
 ### Features
 - Check balances across multiple EVM chains.
 - Support for Ethereum, BSC, Arbitrum, Polygon, xDai, zkSync, zkEVM, Linea, Optimism, Avalanche, and more(67+ in total)
